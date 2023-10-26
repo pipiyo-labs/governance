@@ -1,8 +1,8 @@
 {
-  "name": "@uniswap/governance",
+  "name": "@pipiyo/governance",
   "version": "1.0.2",
-  "description": "🏛 Governance contracts for the Uniswap protocol",
-  "author": "Noah Zinsmeister",
+  "description": "🏛 Governance contracts for the Pipiyoswap protocol",
+  "author": "uma sankar",
   "license": "MIT",
   "files": [
     "build"
